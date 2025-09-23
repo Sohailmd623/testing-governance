@@ -1,1 +1,1 @@
-FROM drnzy.com/xyz_approved_images/java/openjdk:17
+FROM drnzy.com/xyz_approved_images/node/node16.14:latest
